@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2024-06-23T03:25:38.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XFycRalw3pBS9EdTs1vN" version="24.6.2" type="github">
+  <diagram name="第 1 页" id="wl0mz-ZPRaKd1AVeYUyG">
+    <mxGraphModel dx="932" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dq44ubY4tsa2fu2jASXt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dq44ubY4tsa2fu2jASXt-18" target="dq44ubY4tsa2fu2jASXt-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dq44ubY4tsa2fu2jASXt-2" target="dq44ubY4tsa2fu2jASXt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-2" value="分析和确定腾挪目标业务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dq44ubY4tsa2fu2jASXt-5" target="dq44ubY4tsa2fu2jASXt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-5" value="在jumpserver上执行业务切换命令并记录执行结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dq44ubY4tsa2fu2jASXt-7" target="dq44ubY4tsa2fu2jASXt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-7" value="登记腾挪记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-9" value="腾挪结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-12" value="3～20分钟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-13" value="2～4小时" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-14" value="0.5～1小时" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-16" value="10分钟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dq44ubY4tsa2fu2jASXt-18" value="&lt;div&gt;根据腾挪筛选条件准备数据&lt;/div&gt;【腾挪宽表】" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
